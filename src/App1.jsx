@@ -1,7 +1,7 @@
-import StudentInfo from "./components_test/StudentInfo.jsx";
+import StudentList from "./components_test/StudentList.jsx";
 
 function App1() {
     // return <Counter />
-    return <StudentInfo />
+    return <StudentList />
 }
 export default App1;
